@@ -1,0 +1,50 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+IMU	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+ReadAccelerometer	KEYWORD2
+ReadGyroscope	KEYWORD2
+ReadTemperature	KEYWORD2
+processGyroData	KEYWORD2
+processAccelData	KEYWORD2  
+callibrateSensors	KEYWORD2
+calculateGyroAngle	KEYWORD2
+calculateAccelAngle	KEYWORD2
+calculateCompAngles	KEYWORD2
+getAccel_x	KEYWORD2
+getAccel_y	KEYWORD2
+getAccel_z	KEYWORD2
+getGyro_x	KEYWORD2
+getGyro_y	KEYWORD2
+getGyro_z	KEYWORD2
+getAccelAngle_x	KEYWORD2
+getAccelAngle_y	KEYWORD2
+getAccelAngle_z	KEYWORD2
+getGyroAngle_x	KEYWORD2
+getGyroAngle_y	KEYWORD2
+getGyroAngle_z	KEYWORD2
+getCompAngle_yaw	KEYWORD2
+getCompAngle_pitch	KEYWORD2
+getCompAngle_roll	KEYWORD2
+
+######################################
+# Constants (LITERAL1)
+#######################################
+RAD_TO_DEG	LITERAL1
+DEG_TO_RAD	LITERAL1
+ACCELERATION_DUE_GRAVITY	LITERAL1
+ACCL_STARTING_ADDR	LITERAL1
+GRO_STARTING_ADDR	LITERAL1
+TEMP_STARTING_ADDR	LITERAL1
+
+
