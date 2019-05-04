@@ -1,2 +1,2 @@
 # InertialMeasurementUnit_Lib
-This library is created in c++ for Arduino based MCUs for reading the Vales from MPU-6050
+This C++ library for Arduino based MCUs , helps in obtaining sensor data from MPU-6050 Accelero and Gyro sensor.
